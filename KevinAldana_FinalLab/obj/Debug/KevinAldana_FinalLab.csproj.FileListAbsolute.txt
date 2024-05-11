@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\bin\Debug\KevinAldana_FinalLab.exe.config
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\bin\Debug\KevinAldana_FinalLab.exe
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\bin\Debug\KevinAldana_FinalLab.pdb
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\obj\Debug\KevinAldana_FinalLab.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\obj\Debug\KevinAldana_FinalLab.frmMain.resources
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\obj\Debug\KevinAldana_FinalLab.Properties.Resources.resources
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\obj\Debug\KevinAldana_FinalLab.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\obj\Debug\KevinAldana_FinalLab.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\obj\Debug\KevinAldana_FinalLab.exe
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\obj\Debug\KevinAldana_FinalLab.pdb
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\obj\Debug\KevinAldana_FinalLab.FrmSplash.resources
+C:\Users\kevin\source\repos\KevinAldana_FinalLab\obj\Debug\KevinAldana_FinalLab.frmOrder.resources
